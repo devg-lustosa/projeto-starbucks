@@ -26,13 +26,13 @@ Esse projeto foi criado **apenas para fins de prática** e aprendizado, com o ob
 
 ## 📂 Estrutura de pastas
 
-("
+'''
 📁 projeto/
 ├── 📄 index.html
 └── 📂 assets/
     └── 🎨 style.css
     └── 📂 imagens/
-")
+'''
 
 
 ---
