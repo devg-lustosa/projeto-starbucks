@@ -28,7 +28,7 @@ Esse projeto foi criado **apenas para fins de prática** e aprendizado, com o ob
 
 '''
 📁 projeto/
-├── 📄 index.html
+├── 📄 index.html <br/>
 └── 📂 assets/
     └── 🎨 style.css
     └── 📂 imagens/
