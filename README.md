@@ -6,7 +6,7 @@
 
 ## 📸 Demonstração
 
-🔗 **Acesse o site aqui:** [Clique para visualizar](COLOQUE-SEU-LINK-DA-VERCEL-AQUI)
+🔗 **Acesse o site aqui:** [Clique para visualizar](https://projeto-starbucks-zeta.vercel.app/)
 
 ---
 
